@@ -1,7 +1,7 @@
 {
-  "name": "angular2-essential-training",
-  "version": "2.0.0",
-  "author": "Justin Schwartzenberger",
+  "name": "angular-moretraining",
+  "version": "1.2.0",
+  "author": "Salvador Perez",
   "description": "This project is the repository for my Angular Essential Training course on Lynda.com and LinkedIn Learning.",
   "repository": {
     "type": "git",

@@ -18,6 +18,9 @@ section {
   width: 100%;
   background-color: #32435b;
 }
+section:hover {
+  background-color: teal;
+}
 section > header {
   color: #ffffff;
   padding: 10px;

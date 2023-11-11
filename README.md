@@ -8,7 +8,7 @@ The full course is available at [LinkedIn Learning](https://www.linkedin.com/lea
 
 ## Course Description
 
-JavaScript frameworks help you code more quickly, by providing special functionality for developing specific types of web projects. Angular was designed by Google to address challenges programmers face building single-page applications. This course introduces you to the essentials of this "superheroic" framework, including declarative templates, two-way data binding, and dependency injection. Justin Schwartzenberger steps through the framework one feature at a time, focusing on the new component-based architecture of Angular. After completing this training, you'll be able to tackle the other project-based courses in our library and create your own Angular app.
+JavaScript frameworks help you code more quickly, by providing special functionality for developing specific types of web projects. Angular was designed by Google to address challenges programmers face building single-page applications. This course introduces you to the essentials of this "superheroic" framework, including declarative templates, two-way data binding, and dependency injection. Salvador Perez steps through the framework one feature at a time, focusing on the new component-based architecture of Angular. After completing this training, you'll be able to tackle the other project-based courses in our library and create your own Angular app.
 
 Topics include:
 - What is Angular?
@@ -63,6 +63,3 @@ If you are getting a list of errors on `npm install` that look like `Cannot find
 ```
 If the caret is there (would look like `"@types/core-js": "^0.9.34"`) then remove it (or copy the contents of the [package.json](https://github.com/coursefiles/angular2-essential-training/blob/master/package.json) file on the origin repository) and run `npm install` again.
   
-## More Stuff
-Check out some of my [other courses on LinkedIn Learning](https://www.linkedin.com/learning/instructors/justin-schwartzenberger?u=2125562). 
-You can also [follow me on twitter](https://twitter.com/schwarty).
